@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 dang van dai
+=======
+>>>>>>> parent of 465868e... dai.txt changed
